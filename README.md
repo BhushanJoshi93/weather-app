@@ -3,6 +3,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+## Screenshots 
+
+<img src="https://github.com/BhushanJoshi93/weather-app/blob/master/Screenshots/Screen%20Shot%202018-08-27%20at%2012.15.14%20AM.png" width="60%">
+
+<img src="https://github.com/BhushanJoshi93/weather-app/blob/master/Screenshots/Screen%20Shot%202018-08-27%20at%2012.15.36%20AM.png" width="60%">
+
+
+
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
